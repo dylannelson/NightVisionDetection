@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>RaccoonVideo1-Frame1275.jpg</filename>
+	<path>C:\Users\jcord\Documents\GitHub\NightVisionDetection\Data\Images\RaccoonVideo1-Frame1275.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>64</ymin>
+			<xmax>406</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
