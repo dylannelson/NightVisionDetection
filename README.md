@@ -2,8 +2,7 @@
 
 ## Completed:
 * Python Script To Parse and Organize Frames from Videos 11/9/19  
-* -MP4 files in Data/Videos can be turned into images for annotating  
-    * and are placed in 'Images' folder by running the script in 'Video'   File  
+  * MP4 files in Data/Videos can be turned into images for annotating and are placed in 'Images' folder by running the script in 'Video'   File  
 ## Next:  
 * Annotating Images  
 * Training Model  
