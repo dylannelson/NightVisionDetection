@@ -3,11 +3,13 @@
 ## Completed:
 * Python Script To Parse and Organize Frames from Videos 11/9/19  
   * MP4 files in Data/Videos can be turned into images for annotating and are placed in 'Images' folder by running the script in 'Video'   File  
+* Annotated Images using labelImg
 ## Next:  
-* Annotating Images  
-* Training Model  
+* Training Model using TensorFlow 
 * Testing Model  
->>>>>>> 8df52f7f99c09e8801e85843978a809b67f8c760
+## Stretch goals
+* Implement for livestream on RPi
+* Notifications when detecting from RPi
 
 
 Sources:  
